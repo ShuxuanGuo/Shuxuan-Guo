@@ -1,6 +1,13 @@
 theme: jekyll-theme-cayman
 title: Shuxuan Guo
-description:    
+description:   
+
+gems:
+   - jekyll-mentions
+   - jemoji
+   - jekyll-redirect-from
+   - jekyll-sitemap
+   - jekyll-feed
 
 author:
   name: Shuxuan Guo
