@@ -55,3 +55,8 @@ footer-links-active:
   youtube: false
   spotify: false
   telephone: false
+  
+comments :
+   provider : disqus
+   disqus :
+     short_name : xuan
