@@ -1,13 +1,8 @@
 theme: jekyll-theme-cayman
 title: Shuxuan Guo
-description: Shuxuan Guo
-author : 
-   name : Shuxuan Guo
-   email : gsxuan.nudt@gmail.com
-   github : ShuxuanGuo
-   twitter : username
-   feedburner : feedname
-   comments :
-provider : disqus
+description: 
 
+provider : disqus
 disqus :
+
+shorname:
