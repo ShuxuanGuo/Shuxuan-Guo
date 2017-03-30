@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
 title: Shuxuan Guo
-description:   
+description: Shu  
 
 gems:
    - jekyll-mentions
@@ -8,6 +8,10 @@ gems:
    - jekyll-redirect-from
    - jekyll-sitemap
    - jekyll-feed
+   
+   
+sitemap:
+   "About me":
 
 author:
   name: Shuxuan Guo
